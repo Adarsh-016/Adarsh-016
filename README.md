@@ -16,7 +16,7 @@
 
 
 ## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/deshmukhgayatri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deshmukhgayatri018@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-thakare16/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshthakare16@gmail.com) 
 
 # 💻 Here are some of the tools, frameworks, and languages I've worked with:
 ## 📊 Data Analytics Skills
