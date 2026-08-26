@@ -55,6 +55,4 @@
 - 🌐 Gateway / MEG & HES
 - 🗺️ GIS & Geospatial Analysis
 - 🤖 Process Automation
-# 📊 GitHub Stats:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
